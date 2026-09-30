@@ -54,5 +54,5 @@ reports/
 !core-operations/uv.lock
 
 # Private per-task capture records must never enter routine commits.
-/.agents/workflow-capture/*.md
+/.agents/workflow-capture/**/*.md
 !/.agents/workflow-capture/TASK-CAPTURE-TEMPLATE.md
